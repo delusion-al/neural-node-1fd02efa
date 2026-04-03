@@ -2,65 +2,30 @@
   "brand": {
     "font": "Inter",
     "colors": {
-      "accent": "#8b5cf6",
-      "primary": "#3b82f6",
-      "secondary": "#0f172a"
+      "primary": "hsl(222, 47%, 4%)",
+      "accent1": "hsl(263, 90%, 60%)",
+      "accent2": "hsl(150, 100%, 50%)",
+      "surface": "hsla(222, 47%, 12%, 0.6)",
+      "text": "hsl(0, 0%, 98%)"
     },
-    "logo_text": "Taberneros"
+    "logo_text": "Taberneros",
+    "fonts": {
+      "main": "Inter Tight, sans-serif",
+      "heading": "Geist, sans-serif"
+    }
   },
   "seo": {
-    "title": "Taberneros - restaurant en Madrid",
-    "description": "Bienvenido a Taberneros. Expertos en restaurant ubicados en Madrid. Calidad y confianza garantizada."
+    "title": "OPUS PREMIUM | High-End AI-Driven Lead Generation",
+    "description": "Experience the future of spatial UI and functional luxury. A hyper-modern lead generation engine designed for elite conversion."
   },
   "pages": [
     {
       "id": "home",
-      "hero": {
-        "title": "Taberneros",
-        "subtitle": "Tu experto local en restaurant en Madrid",
-        "button_text": "Reservar Cita"
-      },
-      "layout": "glassmorphism",
-      "contact": {
-        "email": "info@taberneros.aifactory.dev",
-        "phone": "+34 91 542 21 60",
-        "address": "Calle de Santiago, 9, Madrid"
-      },
-      "pricing": [
-        {
-          "name": "Básico",
-          "price": "Económico",
-          "features": [
-            "Servicio estándar",
-            "Garantía 30 días"
-          ]
-        },
-        {
-          "name": "Premium",
-          "price": "Recomendado",
-          "features": [
-            "Prioridad máxima",
-            "Atención 24/7",
-            "Garantía extendida"
-          ]
-        }
-      ],
-      "features": [
-        {
-          "desc": "Priorizamos tu tiempo en Madrid.",
-          "icon": "Zap",
-          "title": "Atención Express"
-        },
-        {
-          "desc": "Seguridad y precisión en cada servicio de restaurant.",
-          "icon": "Shield",
-          "title": "Garantía Neural"
-        },
-        {
-          "desc": "Acabados y atención al detalle de alto nivel.",
-          "icon": "Star",
-          "title": "Calidad Premium"
-        }
+      "blocks": [
+        "KineticHero",
+        "BentoFeatureGrid",
+        "GlassmorphicLeadCapture",
+        "InteractiveValueCalculator"
       ]
     }
   ],
@@ -82,5 +47,5 @@
       "label": "Contacto"
     }
   ],
-  "updated_at": "2026-04-03T21:11:19.766Z"
+  "updated_at": "2026-04-03T22:31:44.412Z"
 }

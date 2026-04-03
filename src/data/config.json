@@ -1,18 +1,18 @@
 {
   "brand": {
     "font": "Inter",
-    "colors": {
-      "primary": "hsl(222, 47%, 4%)",
-      "accent1": "hsl(263, 90%, 60%)",
-      "accent2": "hsl(150, 100%, 50%)",
-      "surface": "hsla(222, 47%, 12%, 0.6)",
-      "text": "hsl(0, 0%, 98%)"
-    },
-    "logo_text": "Taberneros",
     "fonts": {
       "main": "Inter Tight, sans-serif",
       "heading": "Geist, sans-serif"
-    }
+    },
+    "colors": {
+      "text": "hsl(0, 0%, 98%)",
+      "accent1": "hsl(263, 90%, 60%)",
+      "accent2": "hsl(150, 100%, 50%)",
+      "primary": "hsl(222, 47%, 4%)",
+      "surface": "hsla(222, 47%, 12%, 0.6)"
+    },
+    "logo_text": "Taberneros"
   },
   "seo": {
     "title": "OPUS PREMIUM | High-End AI-Driven Lead Generation",
@@ -47,5 +47,5 @@
       "label": "Contacto"
     }
   ],
-  "updated_at": "2026-04-03T22:31:44.412Z"
+  "updated_at": "2026-04-03T23:37:29.858Z"
 }
